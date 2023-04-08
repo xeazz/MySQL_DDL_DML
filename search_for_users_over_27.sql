@@ -1,3 +1,0 @@
-SELECT * FROM netology_db.PERSONS
-WHERE age > 27
-ORDER BY age DESC;
